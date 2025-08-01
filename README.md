@@ -7,14 +7,23 @@ This repository stores a project exploring the UK’s residential property sales
 ## 📁 Repository Structure
 
 ```text
-price_paid_data_analysis/
+price_paid_data_analysis/     # Geospatial shapefiles for London boroughs and postcode districts
 ├── assets/             
 │   ├── boroughs_shp/    
 │   └── postcodes_shp/   
-├── config/              
-├── src/                 
-├── Analysis_Notebook.ipynb
-├── requirements.txt     
-├── .gitignore           
+├── config/                   # Configuration files or constants             
+├── src/                      # Python modules and helper functions for processing and visualisation                
+├── Analysis_Notebook.ipynb   # Main analysis notebook
+├── requirements.txt          # Project dependencies
+├── .gitignore
 └── README.md
 ```
+
+📚 Data Source
+HM Land Registry’s Price Paid Data
+
+Distributed under the Open Government Licence v3.0
+
+📍 Author
+Developed by Nicolas Santos (nnssvv).
+
