@@ -19,11 +19,11 @@ price_paid_data_analysis/     # Geospatial shapefiles for London boroughs and po
 └── README.md
 ```
 
-📚 Data Source
+## 📚 Data Source
 HM Land Registry’s Price Paid Data
 
 Distributed under the Open Government Licence v3.0
 
-📍 Author
+## 📍 Author
 Developed by Nicolas Santos (nnssvv).
 
