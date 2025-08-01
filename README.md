@@ -1,1 +1,31 @@
-"# price_paid_data_analysis" 
+# 🏠 UK Price Paid Data Analysis
+
+This repository stores a project exploring the UK’s residential property sales using Price Paid Data from HM Land Registry. This project focuses on understanding property price trends across London boroughs and postcode districts, and builds predictive models using geographical and transactional features.
+
+---
+
+## 📁 Repository Structure
+
+```text
+price_paid_data_analysis/     # Geospatial shapefiles for London boroughs and postcode districts
+├── assets/             
+│   ├── boroughs_shp/    
+│   └── postcodes_shp/   
+├── config/                   # Configuration files or constants             
+├── src/                      # Python modules and helper functions for processing and visualisation                
+├── Analysis_Notebook.ipynb   # Main analysis notebook
+├── requirements.txt          # Project dependencies
+├── .gitignore
+└── README.md
+```
+
+## 📚 Data Source
+HM Land Registry’s Price Paid Data
+
+Ordnance Survey Code-Point Open
+
+Distributed under the Open Government Licence v3.0
+
+## 📍 Author
+Developed by Nicolas Santos (nnssvv).
+
