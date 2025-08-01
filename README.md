@@ -1,6 +1,6 @@
 # 🏠 UK Price Paid Data Analysis
 
-A data analysis project exploring the UK’s residential property sales using Price Paid Data from HM Land Registry. This project focuses on understanding property price trends across London boroughs and postcode districts, and builds predictive models using geographical and transactional features.
+This repository stores a project exploring the UK’s residential property sales using Price Paid Data from HM Land Registry. This project focuses on understanding property price trends across London boroughs and postcode districts, and builds predictive models using geographical and transactional features.
 
 ---
 
