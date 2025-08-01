@@ -6,12 +6,15 @@ A data analysis project exploring the UK’s residential property sales using Pr
 
 ## 📁 Repository Structure
 
+```text
 price_paid_data_analysis/
-├── assets/ # Geospatial shapefiles for London boroughs and postcode districts
-├── config/ # Configuration files or constants
-├── src/ # Python modules and helper functions for processing and visualisation
-├── Analysis_Notebook.ipynb # Main notebook combining data loading, EDA, and modeling
-├── requirements.txt # Project dependencies
-├── .gitignore # Ignored files and folders for version control
-└── README.md # Project documentation
-
+├── assets/             
+│   ├── boroughs_shp/    
+│   └── postcodes_shp/   
+├── config/              
+├── src/                 
+├── Analysis_Notebook.ipynb
+├── requirements.txt     
+├── .gitignore           
+└── README.md
+```
