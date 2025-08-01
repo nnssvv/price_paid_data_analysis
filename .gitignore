@@ -1,2 +1,6 @@
 data/
 assets/*.dbf
+assets/*.prj
+assets/*.shp
+assets/*.shx
+assets/*.cpg
