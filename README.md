@@ -22,6 +22,8 @@ price_paid_data_analysis/     # Geospatial shapefiles for London boroughs and po
 ## 📚 Data Source
 HM Land Registry’s Price Paid Data
 
+Ordnance Survey Code-Point Open
+
 Distributed under the Open Government Licence v3.0
 
 ## 📍 Author
