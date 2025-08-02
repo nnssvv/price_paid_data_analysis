@@ -2,6 +2,10 @@
 
 This repository stores a project exploring the UK’s residential property sales using Price Paid Data from HM Land Registry. This project focuses on understanding property price trends across London boroughs and postcode districts, and builds predictive models using geographical and transactional features.
 
+To replicate the project:
+
+1. The user must download the yearly .csv files from [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+
 ---
 
 ## 📁 Repository Structure
