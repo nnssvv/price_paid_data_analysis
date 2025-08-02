@@ -11,7 +11,8 @@ price_paid_data_analysis/     # Geospatial shapefiles for London boroughs and po
 ├── assets/             
 │   ├── boroughs_shp/    
 │   └── postcodes_shp/   
-├── config/                   # Configuration files or constants             
+├── config/                   # Configuration files or constants
+├── figures/                  # Output figures from Analysis_Notebook.ipynb             
 ├── src/                      # Python modules and helper functions for processing and visualisation                
 ├── Analysis_Notebook.ipynb   # Main analysis notebook
 ├── requirements.txt          # Project dependencies
