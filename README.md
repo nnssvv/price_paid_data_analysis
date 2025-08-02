@@ -6,7 +6,7 @@ To replicate the project:
 
 1. Download the yearly .csv files from [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) and save them under the `data` folder in the parent directory.
 2. Extract the zip files with London's Shapefiles from the `assets` folder.
-3. Install the dependencies listed on the `requirements.txt` file
+3. Install the dependencies listed on the `requirements.txt` file.
 
 The analysis can be replicated using the `Analysis_Notebook` Jupyter Notebook.
 
