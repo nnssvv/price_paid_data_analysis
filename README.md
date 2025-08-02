@@ -36,5 +36,5 @@ Ordnance Survey Code-Point Open
 Distributed under the Open Government Licence v3.0
 
 ## 📍 Author
-Developed by Nicolas Santos (nnssvv).
+Developed by Nicolas Santos ([nnssvv](https://github.com/nnssvv)).
 
